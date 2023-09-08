@@ -5,12 +5,13 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to my second amazing feat of IT](./another-page.html).
-[Link Yet another link to test this whole webinternet sensation](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+[Link Yet another link to test this whole webinternet sensation](./another-page.html).
 # Dedicated to my boy ROY
 
 This is my baby steps in GIT.
