@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Dedicated to my boy ROY
 
 This is my baby steps in GIT.
-
+[Link Yet another POC](./another-page.html).
 ## Dedicated to my beautiful wife Mor and my baby girl Hilly
 
 > This is a blockquote following a header.
@@ -24,7 +24,7 @@ This is my baby steps in GIT.
 
 ### My hobbies
 So many that iv'e lost count, but basically the same as yourse.
-
+[Link for counting measures](./another-page.html).
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -39,7 +39,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
+[Link Yet another POC but this one is even better](./another-page.html).
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -64,7 +64,7 @@ end
 ### There's a horizontal rule below this.
 
 * * *
-
+[Link 6x6](./another-page.html).
 ### Here is an unordered list:
 
 *   Item foofff
