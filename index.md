@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Dedicated to my boy ROY
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is my baby steps in GIT.
 
 ## Dedicated to my beautiful wife Mor and my baby girl Hilly
 
@@ -21,7 +21,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### My hobbies
+So many that iv'e lost count, but basically the same as yourse.
 
 ```js
 // Javascript code with syntax highlighting.
