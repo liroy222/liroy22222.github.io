@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to my second amazing feat of IT](./another-page.html).
-[Link Yet another link to test this whole webinternet sensation](./another-page2.html).
+[Link Yet another link to test this whole webinternet sensation](./another-page.html).
 
 There should be whitespace between paragraphs.
 
